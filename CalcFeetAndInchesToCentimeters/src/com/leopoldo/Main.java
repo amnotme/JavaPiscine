@@ -19,7 +19,7 @@ public class Main {
 
     public static double calcFeetAndInchesToCentimeters(double inches) {
         int res = 0;
-        
+
         res = (inches >= 0 ? 1 : -1);
         return (res == -1 ? -1 : calcFeetAndInchesToCentimeters(inches / 12.0, inches % 12));
     }
