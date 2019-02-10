@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="082e0498-5d85-40bd-9d30-6f984f8bd49d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberOfDaysInMonth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberInTheWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberInTheWorld/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="082e0498-5d85-40bd-9d30-6f984f8bd49d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +15,7 @@
         <entry file="file://$PROJECT_DIR$/src/NumberOfDaysInMonth.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -73,7 +69,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549769570868" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549769775552" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
@@ -117,12 +113,12 @@
       <option name="presentableId" value="Default" />
       <updated>1549689422432</updated>
       <workItem from="1549689424309" duration="843000" />
-      <workItem from="1549764471568" duration="2291000" />
+      <workItem from="1549764471568" duration="2557000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3134000" />
+    <option name="totallyTimeSpent" value="3400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1541" y="23" width="1019" height="1336" extended-state="0" />
@@ -138,7 +134,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329582" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329582" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -167,7 +163,7 @@
     <entry file="file://$PROJECT_DIR$/src/NumberOfDaysInMonth.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
