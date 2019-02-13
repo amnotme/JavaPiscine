@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="513f873d-75a1-49e4-b128-25d0f94734de" name="Default Changelist" comment="" />
+    <list default="true" id="ec8dc808-d78e-486d-ae16-5a4ebb21db11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreatestCommonDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LastDigitChecker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LastDigitChecker/src/LastDigitChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SharedDigit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SharedDigit/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,10 +18,14 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SharedDigit.java">
+        <entry file="file://$PROJECT_DIR$/src/GreatestCommonDivisor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="120">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+              <folding>
+                <element signature="e#542#543#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -35,7 +45,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SharedDigit.java" />
+        <option value="$PROJECT_DIR$/src/GreatestCommonDivisor.java" />
       </list>
     </option>
   </component>
@@ -52,24 +62,24 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="SharedDigit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SharedDigit" type="462c0819:PsiDirectoryNode" />
+              <item name="GreatestCommonDivisor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GreatestCommonDivisor" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550032821737" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550039026735" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
@@ -89,16 +99,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="SharedDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SharedDigit" />
-      <module name="SharedDigit" />
+    <configuration name="GreatestCommonDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GreatestCommonDivisor" />
+      <module name="GreatestCommonDivisor" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SharedDigit" />
+        <item itemvalue="Application.GreatestCommonDivisor" />
       </list>
     </recent_temporary>
   </component>
@@ -107,17 +117,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="513f873d-75a1-49e4-b128-25d0f94734de" name="Default Changelist" comment="" />
-      <created>1550031388525</created>
+      <changelist id="ec8dc808-d78e-486d-ae16-5a4ebb21db11" name="Default Changelist" comment="" />
+      <created>1550033852643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1550031388525</updated>
-      <workItem from="1550031391826" duration="1452000" />
+      <updated>1550033852643</updated>
+      <workItem from="1550033854352" duration="3575000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1452000" />
+    <option name="totallyTimeSpent" value="3575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1541" y="23" width="1019" height="1336" extended-state="0" />
@@ -128,7 +138,7 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24974412" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24974412" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -158,10 +168,14 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SharedDigit.java">
+    <entry file="file://$PROJECT_DIR$/src/GreatestCommonDivisor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="120">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
