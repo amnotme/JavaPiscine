@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f94bf73e-9fea-4e5c-800b-5f36dee7c8f8" name="Default Changelist" comment="" />
+    <list default="true" id="b707229f-6e1a-4a3b-8535-bf883b355cf2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PerfectNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllFactors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AllFactors/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,10 +16,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/AllFactors.java">
+        <entry file="file://$PROJECT_DIR$/src/PerfectNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -35,7 +39,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/AllFactors.java" />
+        <option value="$PROJECT_DIR$/src/PerfectNumber.java" />
       </list>
     </option>
   </component>
@@ -56,13 +60,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="AllFactors" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AllFactors" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AllFactors" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AllFactors" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PefectNumber" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PefectNumber" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -74,7 +73,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550039390221" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550039787353" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
@@ -94,16 +93,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="AllFactors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AllFactors" />
-      <module name="AllFactors" />
+    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PerfectNumber" />
+      <module name="PefectNumber" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AllFactors" />
+        <item itemvalue="Application.PerfectNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -112,17 +111,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f94bf73e-9fea-4e5c-800b-5f36dee7c8f8" name="Default Changelist" comment="" />
-      <created>1550039120000</created>
+      <changelist id="b707229f-6e1a-4a3b-8535-bf883b355cf2" name="Default Changelist" comment="" />
+      <created>1550039500201</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1550039120000</updated>
-      <workItem from="1550039121607" duration="378000" />
+      <updated>1550039500201</updated>
+      <workItem from="1550039502006" duration="316000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="378000" />
+    <option name="totallyTimeSpent" value="316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1541" y="23" width="1019" height="1336" extended-state="0" />
@@ -163,10 +162,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/AllFactors.java">
+    <entry file="file://$PROJECT_DIR$/src/PerfectNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
