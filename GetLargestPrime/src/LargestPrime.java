@@ -1,40 +1,49 @@
 public class LargestPrime {
 
-    public static boolean isPrime(int number) {
-        int max = number / 2;
-        int iter = 2;
-        while (iter < max  + 1) {
-            if (max % iter == 0)
-                return (false);
-            iter++;
-        }
-        return (true);
-    }
 
     public static int getLargestPrime(int number) {
-        int largestFactor = 1;
-        int iter = 2;
-        if (number < 2)
-            return (-1);
+        int largestFactor = -1;
+        int iter = number;
+        int iter2 = 2;
+        int temp  = iter;
+        int prime = 1;
 
-        while (iter < number) {
-            if (isPrime(iter)) {
-                largestFactor *= iter;
-                number /= iter;
+        if (number < 2)
+            return (largestFactor);
+
+        while (iter > 1) {
+            prime = 1;
+            temp = iter;
+            iter2 = 2;
+            while (iter2 < temp) {
+                if (temp % iter2 == 0)
+                    prime = 0;
+                iter2++;
+
+            }
+
+            if (prime == 1){
+                System.out.println(iter);
+                if (number % iter == 0) {
+                    largestFactor = iter;
+                    return (largestFactor);
+                }
+                iter--;
             } else {
-                iter++;
+                iter--;
             }
         }
         return (largestFactor);
-
     }
 
     public static void main(String[] args) {
-        System.out.println(getLargestPrime(21));
-        System.out.println(getLargestPrime(217));
-        System.out.println(getLargestPrime(0));
-        System.out.println(getLargestPrime(45));
-        System.out.println(getLargestPrime(-1));
+
+
+        System.out.println(getLargestPrime(16));
+//        System.out.println(getLargestPrime(217));
+//        System.out.println(getLargestPrime(0));
+//        System.out.println(getLargestPrime(45));
+//        System.out.println(getLargestPrime(-1));
     }
 }
 
